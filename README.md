@@ -37,4 +37,6 @@ https://codepen.io/KD166/pen/poXWoBL - Atividade 2
 
 https://codepen.io/KD166/pen/MWMoqbM - Atividade 1 
 
+[Duck Duck Go](https://duckduckgo.com)
+
 https://drive.google.com/file/d/1paXleu8y764mI3WU61LKg1o0mRH_kZTu/view?usp=sharing - Vídeo Tik Tok
