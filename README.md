@@ -16,7 +16,7 @@ Escreva aqui os conteúdos aprendidos.
 # ![](https://github-production-user-asset-6210df.s3.amazonaws.com/164562736/361956561-8d2c9fdb-8545-43f7-ab44-3609c468c218.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240827%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240827T201755Z&X-Amz-Expires=300&X-Amz-Signature=233657cbee9ce7731fd9b152c3fd1a59770bf4558679e7595ced47abbd0586ef&X-Amz-SignedHeaders=host&actor_id=164940509&key_id=0&repo_id=847937638)	
 
 
-- Array
+### - Array
 - Conceito de array: Estruturas que servem para guardar dados e organizá-los, que nem uma biblioteca. 
   Exemplos: 
   
