@@ -17,7 +17,7 @@ Escreva aqui os conteúdos aprendidos.
 
 
 - Array
-  Conceito de array: Estruturas que servem para guardar dados e organizá-los, que nem uma biblioteca. 
+- Conceito de array: Estruturas que servem para guardar dados e organizá-los, que nem uma biblioteca. 
   Exemplos: 
   
 
