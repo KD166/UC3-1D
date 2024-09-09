@@ -8,7 +8,7 @@ Escreva aqui os conteúdos aprendidos.
 ### - Strings
 - Conceito de string: São sequências de letras, números e simbolos que podem ser escritos entre aspas simples, duplas e triplas.
 - Exemplos:
-# ![](https://github.com/user-attachments/assets/e987f28e-a40e-4d56-bf60-e30090d57881)
+# ![](https://miro.medium.com/v2/resize:fit:1400/1*8K7Jcj3XVQga1pubWs03_w.png)
 
 
 ### - Numbers
